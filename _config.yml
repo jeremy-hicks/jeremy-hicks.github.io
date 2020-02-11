@@ -47,14 +47,15 @@ more_content: | # this will include new lines to allow paragraphs
    - Apple Certified Associate - Mac Integration 10.9 (Nov 2014)
    - Microsoft Technology Associate: Security Fundamentals (Nov 2014)
    - CompTIA A+ (Aug 2009)
+
   Languages
-   - C++
-   - C#
-   - Java Python, JavaScript, Bash, PowerShell
+   C++, C#, Java Python, JavaScript, Bash, PowerShell
+
   Tools
    Perforce, Git, Jenkins, AWS CLI/SDK, Terraform, Docker, Ansible, Unity, Unreal
+
   Topics
-   -
+   tbd
 
 # Footer
 footer_show_references: true
