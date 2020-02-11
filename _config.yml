@@ -48,7 +48,9 @@ more_content: | # this will include new lines to allow paragraphs
    - Microsoft Technology Associate: Security Fundamentals (Nov 2014)
    - CompTIA A+ (Aug 2009)
   Languages
-   C++, C#, Java, Python, JavaScript, Bash, PowerShell
+   - C++
+   - C#
+   - Java Python, JavaScript, Bash, PowerShell
   Tools
    Perforce, Git, Jenkins, AWS CLI/SDK, Terraform, Docker, Ansible, Unity, Unreal
   Topics
