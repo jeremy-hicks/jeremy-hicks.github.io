@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: jeremy-hicks/jeremy-hicks.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -51,13 +51,37 @@ more_content: | # this will include new lines to allow paragraphs
    - CompTIA A+ (Aug 2009)
 
   Languages
-   C++, C#, Java Python, JavaScript, Bash, PowerShell
+   - C++ 
+   - C# 
+   - Java 
+   - Python 
+   - JavaScript 
+   - Bash 
+   - PowerShell
 
   Tools
-   Perforce, Git, Jenkins, AWS CLI/SDK, Terraform, Docker, Ansible, Unity, Unreal
+   - Perforce 
+   - Git 
+   - Jenkins 
+   - AWS CLI/SDK
+   - Azure CLI 
+   - Terraform
+   - Docker 
+   - Ansible
+   - Unity
+   - Unreal
 
   Topics
-   tbd
+   - Infrastructure as Code
+   - Application Architecture
+   - Application Security
+   - Game Programming
+   - Augmented Reality
+   - Automated Testing
+   - Serverless Applications
+   - Cognitive Science
+   - CI/CD Pipelines
+   - Machine Learning
 
 # Footer
 footer_show_references: true
