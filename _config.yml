@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Certifications & Skills
 more_content: | # this will include new lines to allow paragraphs
-  Certifications
+  __Certifications__
    - Microsoft Certified: Azure Fundamentals (Sep 2019)
    - AWS Certified Solutions Architect - Associate (May 2019)
    - Microsoft Technology Associate: Windows Operating System Fundamentals (Jan 2015)
@@ -50,12 +50,12 @@ more_content: | # this will include new lines to allow paragraphs
    - Microsoft Technology Associate: Security Fundamentals (Nov 2014)
    - CompTIA A+ (Aug 2009)
 
-  Languages
+  __Languages__
 
   C++, C#, Java, Python, JavaScript, Bash, PowerShell
 
-  Tools
-  
+  __Tools__
+
   Perforce, Git, Jenkins, AWS CLI/SDK, Azure CLI, Azure DevOps, Terraform, Docker, Ansible, Unity, Unreal
 
 # Footer
