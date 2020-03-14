@@ -51,22 +51,10 @@ more_content: | # this will include new lines to allow paragraphs
    - CompTIA A+ (Aug 2009)
 
   Languages
-    C++, C#, Java, Python, JavaScript, Bash, PowerShell
+  C++, C#, Java, Python, JavaScript, Bash, PowerShell
 
   Tools
-   Perforce, Git, Jenkins, AWS CLI/SDK, Azure CLI, Azure DevOps, Terraform, Docker, Ansible, Unity, Unreal
-
-  Topics
-   - Infrastructure as Code
-   - Application Architecture
-   - Application Security
-   - Game Programming
-   - Augmented Reality
-   - Automated Testing
-   - Serverless Applications
-   - Cognitive Science
-   - CI/CD Pipelines
-   - Machine Learning
+  Perforce, Git, Jenkins, AWS CLI/SDK, Azure CLI, Azure DevOps, Terraform, Docker, Ansible, Unity, Unreal
 
 # Footer
 footer_show_references: false
