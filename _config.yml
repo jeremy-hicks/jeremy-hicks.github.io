@@ -51,25 +51,10 @@ more_content: | # this will include new lines to allow paragraphs
    - CompTIA A+ (Aug 2009)
 
   Languages
-   - C++ 
-   - C# 
-   - Java 
-   - Python 
-   - JavaScript 
-   - Bash 
-   - PowerShell
+    C++, C#, Java, Python, JavaScript, Bash, PowerShell
 
   Tools
-   - Perforce 
-   - Git 
-   - Jenkins 
-   - AWS CLI/SDK
-   - Azure CLI 
-   - Terraform
-   - Docker 
-   - Ansible
-   - Unity
-   - Unreal
+   Perforce, Git, Jenkins, AWS CLI/SDK, Azure CLI, Azure DevOps, Terraform, Docker, Ansible, Unity, Unreal
 
   Topics
    - Infrastructure as Code
@@ -84,7 +69,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Machine Learning
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
