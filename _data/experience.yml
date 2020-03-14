@@ -1,9 +1,45 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: defi SOLUTIONS
+  link: defisolutions.com
+  job_title: Security Engineer IV
+  dates: September 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    - Azure security posture analysis, monitoring, and improvement
+    - Security task automation via PowerShell scripting and Azure Pipelines, including management of application identities and secrets
+- layout: left
+  company: HookBang
+  link: hookbang.com
+  job_title: Advanced Software Engineer
+  dates: November 2018 - September 2019
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    - Cloud infrastructure codification via AWS CloudFormation and Ansible
+    - Jenkins maintenance
+    - Integration and deployment management, improvement, and monitoring
+    - Application development and bug fixing in Node.js and Python, including front-end and back-end components
+- layout: left
+  company: HookBang
+  link: hookbang.com
+  job_title: Software Engineer
+  dates: June 2017 - November 2018
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    - Mobile AR game development with Unity
+    - Automated software testing via UI and API
+    - Serverless web app development using Python, AWS Lambda, and API Gateway
+    - Cloud resource load testing
+- layout: left
+  company: NetBoundary
+  link: 1440security.com
+  job_title: IT Security Analyst
+  dates: September 2014 - July 2015
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    - Monitoring security appliances such as IDS/IPS, Log Management, and SIEMs
+    - Researching and responding to security incidents
+    - PCI compliance reporting

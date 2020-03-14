@@ -1,23 +1,23 @@
 - layout: left
   name: SMU Guildhall
   dates: 2015 - 2017
-  qualification: Professional Certificate, Specialization in Software Development
+  qualification: Cert., Game Programming
   quote: >
-    Programmers at SMU Guildhall focus on writing code to breathe life into games by integrating the work of artists and designers, bringing characters and environments to life. Students practice each of the many facets of gameplay programming as well as the study of game engine architectures, both in commercial engines and their own game engine, which they’ll build from the ground up.
+     Programming students at SMU Guildhall practice each of the many facets of gameplay programming as well as the study of game engine architectures, both in commercial engines and their own game engine, which they’ll build from the ground up.
   description: | # this will include new lines to allow paragraphs
     At SMU Guildhall I focused on deepening my understanding of programming for video games. I worked on a number of individual and team-based projects, including a self-authored game engine in C++, a local multiplayer CTF shooter in Unreal, and a VR puzzle game using the HTC Vive.
 - layout: left
-  name: The University of Texas at Dallas
+  name: UT Dallas
   dates: 2012 - 2014
-  qualification: Master of Science, Applied Cognition and Neuroscience
+  qualification: MS Applied Cognition and Neuroscience
   quote: >
     The Master of Science in Applied Cognition and Neuroscience degree (ACN) provides students with advanced training that incorporates methodologies and approaches from such diverse fields as neuroscience, experimental psychology, artificial intelligence, and human-computer interactions.
   description: | # this will include new lines to allow paragraphs
     Following my undergraduate degree, I continued my education at UT Dallas in a graduate program that was customizable to my interests. I took courses in psychology, game programming, and mathematical modeling of intelligent systems, and I worked in an on-campus research lab studying tinnitus.
 - layout: left
-  name: The University of Texas at Dallas
+  name: UT Dallas
   dates: 2008 - 2012
-  qualification: Bachelor of Science, Cognitive Science
+  qualification: BS Cognitive Science
   quote: >
     Cognitive science focuses on the understanding of intelligent systems, both biological and artificial. These can range from people and animals to web search engines, computers and robots.
   description: | # this will include new lines to allow paragraphs
