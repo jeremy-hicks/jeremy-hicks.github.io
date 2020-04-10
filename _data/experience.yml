@@ -16,9 +16,9 @@
   job_title: Advanced Software Engineer
   dates: November 2018 - September 2019
   quote: >
-
+    HookBang is a Creative Technology Studio that provides full-service software design and development for brands, agencies, and technology companies with hard problems.
   description: | # this will include new lines to allow paragraphs
-    - Cloud infrastructure codification via AWS CloudFormation and Ansible
+    - Cloud infrastructure codification and deployment via AWS CloudFormation and Ansible
     - Jenkins configuration maintenance
     - Integration and deployment management, monitoring, and improvement
     - Application development and bug fixing in Node.js and Python, including front-end and back-end components
@@ -28,7 +28,7 @@
   job_title: Software Engineer
   dates: June 2017 - November 2018
   quote: >
-    
+    HookBang is a Creative Technology Studio that provides full-service software design and development for brands, agencies, and technology companies with hard problems.
   description: | # this will include new lines to allow paragraphs
     - Mobile AR game development with Unity
     - Automated software testing via UI and API
@@ -40,7 +40,7 @@
   job_title: IT Security Analyst
   dates: September 2014 - July 2015
   quote: >
-    
+    NetBoundary, Inc. dba 1440 Security is a Managed Security Service Provider (MSSP) utilizing industry- leading tools to perform log management, intrusion detection and prevention, vulnerability assessment scanning, and firewall management.
   description: | # this will include new lines to allow paragraphs
     - Monitoring security appliances such as IDS/IPS, Log Management, and SIEMs
     - Researching and responding to security incidents
