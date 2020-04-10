@@ -4,10 +4,12 @@
   job_title: Security Engineer IV
   dates: September 2019 - Present
   quote: >
-
+    defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
   description: | # this will include new lines to allow paragraphs
     - Azure security posture analysis, monitoring, and improvement
     - Security task automation via PowerShell scripting and Azure Pipelines, including management of application identities and secrets
+    - Virtual security appliance deployment, configuration, and operation
+    - Azure IAM implementation and administration using SSO, MFA, RBAC, and PIM
 - layout: left
   company: HookBang
   link: hookbang.com
@@ -17,8 +19,8 @@
 
   description: | # this will include new lines to allow paragraphs
     - Cloud infrastructure codification via AWS CloudFormation and Ansible
-    - Jenkins maintenance
-    - Integration and deployment management, improvement, and monitoring
+    - Jenkins configuration maintenance
+    - Integration and deployment management, monitoring, and improvement
     - Application development and bug fixing in Node.js and Python, including front-end and back-end components
 - layout: left
   company: HookBang
