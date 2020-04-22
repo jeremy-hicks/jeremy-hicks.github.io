@@ -26,9 +26,11 @@ github_username: jeremy-hicks
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  AWS and Azure certified IT professional with a diverse background of education and experience, including network security, game development, VR/AR, and cloud infrastructure. Characterized by a drive to always be learning and improving. 
+  I started my career in IT security after obtaining a B.S. and M.S. in Cognitive Science from UT Dallas. I worked in a Security Operations Center (SOC) for an MSSP monitoring security appliances and performing PCI compliance reporting for about a year before returning to school at SMU Guildhall to pursue a professional certificate in game programming.
   
-  Primary areas of professional interest are cloud infrastructure, security, and automation.
+  Following my graduation from Guildhall, I worked for a startup on a variety of projects, including a multiplayer augmented reality defense-shooter game, automated web application testing via UI and API, and cloud infrastructure codification and deployment of the aforementioned web application. Near the end of my time at the startup I had developed an interest in broader software development (not just games) and how to leverage the cloud. 
+  
+  I obtained my first AWS certification and then, with a background in security and software development, took on my current role in security engineering.
 
 # Projects Section
 # projects_title: Projects

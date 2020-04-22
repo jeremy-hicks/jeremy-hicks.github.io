@@ -1,0 +1,47 @@
+- layout: top-middle
+  name: Any Colony, Self-Authored C++ Game Engine
+  link: 
+  github: 
+  quote: >
+    Wrote a DLL plugin containing the logic necessary for an ant colony to feed itself and fight other colonies to the death in multiple maps with distinctive characteristics and composition.
+  description: | # this will include new lines to allow paragraphs
+    - DLL created and stored all representative information about the map and the colony itself, populating this storage as more of the map was discovered and the colony grew
+    - Food locations were noted and claimed by individual worker ants to avoid multiple ants trying to retrieve the same food. Food was unclaimed if a worker died while trying to retrieve it
+    - All ants pathed using a fast implementation of A* in which the closed list was eliminated (map cells had a boolean on themselves to indicate if they were closed) and the open list consisted of map cell indices
+    - Cells were assigned different G costs for different ant types to facilitate more efficient and strategic exploration
+- layout: top-middle
+  name: Steering Behaviors, Self-Authored C++ Game Engine
+  link: 
+  github: 
+  quote: >
+    Implemented steering behaviors in personal engine including Seek/Flee, Arrive, Path Follow, Wander, and Pursue/Evade.
+  description: | # this will include new lines to allow paragraphs
+    - Seek/Flee calculates a vector to the target and accelerates in that direction (the negative of that direction in the case of Flee).
+    - Arrive, which is essentially a variant of Seek, has a radius around the target within which it throttles its velocity (proportional to the distance to the target) so that it comes to a nice smooth stop instead of overshooting like Seek does
+    - Path Follow picks targets along a path and calculates a vector to the current target along the path and accelerates in that direction. Once the agent is within a certain radius of the target point the next point along the path is set as the current target for the behavior
+    - Wander has a circle centered a certain distance out along the forward vector of the agent. The agent picks a random point along the outer edge of this circle to accelerate toward to produce a meandering behavior
+    - Pursue/Evade is similar to Seek/Flee but instead of calculating a vector to the target to accelerate to it calculates a vector to a predicted position of the target after a certain amount of time to move toward (move away from in the case of Evade). This results in a more aggressive seeking behavior than Seek itself
+- layout: top-middle
+  name: 2D Roguelike, Self-Authored C++ Game Engine
+  link: 
+  github: 
+  quote: >
+    Creation of a 2D roguelike game with different types of procedural map generators, a field of view system for agent sight, pathfinding for agent movement, a combat system, AI behaviors from C++ classes, interactable features in the environment, and saving and loading.
+  description: | # this will include new lines to allow paragraphs
+    - A* pathfinding was used by entities to move to random locations and to the position of the player. The algorithm could be invoked generically and supported visualization of the pathfinding process and the final path returned
+    - Entity behaviors were data-driven using XML so that creating a new behavior was as simple as creating the .hpp and .cpp files and referencing them in the XML
+- layout: top-middle
+  name: SimpleMiner, Self-Authored C++ Game Engine
+  link: 
+  github: 
+  quote: >
+    SimpleMiner is a simple Minecraft clone developed by myself over 8 weeks.
+  description: | # this will include new lines to allow paragraphs
+    - Chunks of blocks are rendered using vertex arrays (VAs), one VA per chunk
+    - New chunks are generated using Perlin noise as they come within a certain view range of the player
+    - Old chunks are efficiently saved out to disk (RLE compression)  and then deleted from memory after they go out of range
+    - Chunks previously saved out are reloaded (instead of regenerated) if they come back into range
+    - Block selection, digging, and placing are all implemented
+    - Basic player physics such as jumping and bounding box collision are implemented
+    - Trees are placed using Perlin noise during chunk generation and are consistent across chunk boundaries
+    - Optimized performance with bitwise operators, interior hidden surface removal, and chunk rendering frustum culling
