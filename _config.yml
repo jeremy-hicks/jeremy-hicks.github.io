@@ -32,14 +32,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   I obtained my first AWS certification and then, with a background in security and software development, took on my current role in security engineering.
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 more_title: Certifications & Skills
@@ -60,6 +57,9 @@ more_content: | # this will include new lines to allow paragraphs
   __Tools__
 
   Perforce, Git, Jenkins, AWS CLI/SDK, Azure CLI, Azure DevOps, Terraform, Docker, Ansible, Unity, Unreal
+
+# Projects Section
+projects_title: Projects
 
 # Footer
 footer_show_references: false
