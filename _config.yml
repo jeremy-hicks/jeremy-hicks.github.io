@@ -175,7 +175,6 @@ content:
         quote: >
           Wrote a DLL plugin containing the logic necessary for an ant colony to feed itself and fight other colonies to the death in multiple maps with distinctive characteristics and composition.
         description: | # this will include new lines to allow paragraphs
-#          <div style="text-align:center"><img src="/images/AntColony.gif" alt="Ant Colony demo GIF"></div>
           - DLL created and stored all representative information about the map and the colony itself, populating this storage as more of the map was discovered and the colony grew
           - Food locations were noted and claimed by individual worker ants to avoid multiple ants trying to retrieve the same food. Food was unclaimed if a worker died while trying to retrieve it
           - All ants pathed using a fast implementation of A* in which the closed list was eliminated (map cells had a boolean on themselves to indicate if they were closed) and the open list consisted of map cell indices
@@ -194,7 +193,6 @@ content:
         quote: >
           Implemented steering behaviors in personal engine including Seek/Flee, Arrive, Path Follow, Wander, and Pursue/Evade.
         description: | # this will include new lines to allow paragraphs
-#          <div style="text-align:center"><img src="/images/SteeringBehaviors.gif" alt="Steering Behaviors demo GIF"></div>
           - Seek/Flee calculates a vector to the target and accelerates in that direction (the negative of that direction in the case of Flee).
           - Arrive, which is essentially a variant of Seek, has a radius around the target within which it throttles its velocity (proportional to the distance to the target) so that it comes to a nice smooth stop instead of overshooting like Seek does
           - Path Follow picks targets along a path and calculates a vector to the current target along the path and accelerates in that direction. Once the agent is within a certain radius of the target point the next point along the path is set as the current target for the behavior
@@ -214,7 +212,6 @@ content:
         quote: >
           Creation of a 2D roguelike game with different types of procedural map generators, a field of view system for agent sight, pathfinding for agent movement, a combat system, AI behaviors from C++ classes, interactable features in the environment, and saving and loading.
         description: | # this will include new lines to allow paragraphs
-#          <div style="text-align:center"><img src="/images/2DRoguelike.gif" alt="2D Roguelike demo GIF"></div>
           - A* pathfinding was used by entities to move to random locations and to the position of the player. The algorithm could be invoked generically and supported visualization of the pathfinding process and the final path returned
           - Entity behaviors were data-driven using XML so that creating a new behavior was as simple as creating the .hpp and .cpp files and referencing them in the XML
       - layout: top-middle
@@ -231,7 +228,6 @@ content:
         quote: >
           SimpleMiner is a simple Minecraft clone developed by myself over 8 weeks.
         description: | # this will include new lines to allow paragraphs
-#          <div style="text-align:center"><img src="/images/placing.gif" alt="SimpleMiner demo GIF"></div>
           - Chunks of blocks are rendered using vertex arrays (VAs), one VA per chunk
           - New chunks are generated using Perlin noise as they come within a certain view range of the player
           - Old chunks are efficiently saved out to disk (RLE compression)  and then deleted from memory after they go out of range
