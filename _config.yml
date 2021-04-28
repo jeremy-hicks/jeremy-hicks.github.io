@@ -67,7 +67,7 @@ content:
         quote: >
           defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to help lenders transform their operations. The company’s comprehensive suite of end-to-end originations, servicing, and analytics solutions, together with technology-enabled processing services, are flexible, configurable, and scalable to address the ever-evolving needs of lenders and borrowers.
         description: | # this will include new lines to allow paragraphs
-          - Technical guidance, training, and goal-setting of security engineering team
+          - Technical guidance, training, and goal setting of security engineering team
           - Audit evidence provisioning and technical discussion
       - layout: left
         title: defi SOLUTIONS
