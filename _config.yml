@@ -82,6 +82,7 @@ content:
           - Security task automation via PowerShell scripting and Azure Pipelines, including management of application identities and secrets
           - Virtual security appliance deployment, configuration, and operation
           - Azure IAM implementation and administration using SSO, MFA, RBAC, and PIM
+          - Management and configuration of corporate security tooling including endpoint threat detection, DLP, CASB, and vulnerability scanning
       - layout: left
         title: HookBang
         link: hookbang.com
